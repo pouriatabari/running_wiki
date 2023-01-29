@@ -1,2 +1,2 @@
-# running_wiki
-if you want to have a wiki for your self, follow my instructions
+# running wiki
+if you want to have a wiki for yourself, follow my instructions
